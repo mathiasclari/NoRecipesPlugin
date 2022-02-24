@@ -1,0 +1,6 @@
+name: NoRecipes
+version: '${project.version}'
+main: com.metaxcrew.norecipes.NoRecipes
+api-version: 1.18
+authors: [ MatLabs ]
+website: https://discord.gg/gFmBdpPZJa
